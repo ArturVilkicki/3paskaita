@@ -1,0 +1,41 @@
+body {
+		background-color: yellow;
+	}
+.header {
+		width: 100%;
+		height: 200px;
+		background-color: yellow;
+		margin: 0px;
+		padding:  0px;
+		background-image: url(img_fjords.jpg);
+		background-repeat: no-repeat;
+		background-size: cover;
+
+}
+.nuorodos {
+		text-decoration: none;
+		border: 2px solid black;
+		border-radius: 1px;
+		background-color: red;
+		font-size: 40px;
+		text-decoration: none;
+		list-style: none;
+}
+	
+.lentele {
+		border: 10px solid black;
+		width: 100%;
+		text-align: center;
+
+}
+td {
+		border: 2px solid black;
+}
+th {
+		border: 2px solid black;
+}
+.listai {
+		float: right;
+		display: inline;
+
+}
